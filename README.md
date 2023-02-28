@@ -2,10 +2,12 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0B2734&width=435&lines=Hi!+I'm+Denis+Reshetnyak!" alt="Typing SVG" /></a>
   </img>
   <h2>О себе</h2>
+  <div align="left">
 	<p>Хочу стать профессиональным front-end-разработчиком</p>
 	<p>Front-end разработка привлекает меня возможностью создавать что-то новое,</p>
 	<p>добавлять интерактивность и видеть результаты своей работы.</p>
 	<p>Люблю летнюю рыбалку и путешествия.</p>
+	</div>
 </div>
 <div id="socials" align="center">
 	<h2>ᴄᴏɴᴛᴀᴄᴛꜱ:</h2>

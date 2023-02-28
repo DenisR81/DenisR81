@@ -30,7 +30,7 @@
 
 <div id="techs" align="center">
   <h2>ᴍʏ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=DenisR81&show_icons=true&theme=tokyonight" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkovViktor&theme=tokyonight" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DenisR81&show_icons=true&theme=tokyonight" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisR81&theme=tokyonight" height="140px"/>
 </div>
 
 <!--
